@@ -15,6 +15,8 @@ cd FB_BRUTE
 
 chmod +x * 
 
+python3 setup.py 
+
 python3 BRUTE.py
 
 
