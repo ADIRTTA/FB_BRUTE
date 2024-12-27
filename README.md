@@ -2,7 +2,7 @@
 Fb Brute Force Attack tool
 
 # Command
-
+```bash
 pkg update 
 
 pkg upgarde 
@@ -19,7 +19,7 @@ python3 setup.py
 
 python3 BRUTE.py
 
-
+```
 
 # Tool password
 
